@@ -1,0 +1,1 @@
+Python archive that reads Evapotranspiration (ET0) data from IDEAM, NASA-POWER, TERRA-CLIMATE, and EUMETSAT and finds the best linear regression (Robust Linear Models) between the IDEAM dataset and the satellite resources. 
